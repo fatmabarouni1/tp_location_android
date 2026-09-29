@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location de voitures</string>
+    <string name="app_titre">Location de voitures</string>
+    <string name="hint_nom">Entrez votre nom</string>
+    <string name="btn_louer">Louer une voiture</string>
+    <string name="btn_profil">Mon profil</string>
+    <string name="btn_accueil">Accueil</string>
+    <string name="btn_retour">Retour</string>
+    <string name="nom_vide">Entrez votre nom</string>
+
+    <string name="catalogue_titre">Choisissez une voiture</string>
+    <string name="voiture_clio">Renault Clio</string>
+    <string name="voiture_208">Peugeot 208</string>
+    <string name="voiture_duster">Dacia Duster</string>
+    <string name="label_clio">Renault Clio - 80 DT/jour</string>
+    <string name="label_208">Peugeot 208 - 90 DT/jour</string>
+    <string name="label_duster">Dacia Duster - 120 DT/jour</string>
+    <string name="btn_continuer">Continuer</string>
+    <string name="choisir_voiture">Choisissez une voiture</string>
+
+    <string name="location_titre">Détails de la location</string>
+    <string name="hint_jours">Nombre de jours</string>
+    <string name="label_prix_jour">Prix par jour : %1$d DT</string>
+    <string name="label_total">Total : %1$d DT</string>
+    <string name="btn_calculer">Calculer le prix</string>
+    <string name="btn_valider">Valider la location</string>
+    <string name="jours_invalides">Entrez un nombre de jours valide</string>
+
+    <string name="contrat_titre">Contrat de location</string>
+    <string name="label_client">Client : %1$s</string>
+    <string name="label_date">Date : %1$s</string>
+    <string name="label_voiture">Voiture : %1$s</string>
+    <string name="label_duree">Durée : %1$d jour(s)</string>
+
+    <string name="profil_titre">Profil client</string>
+    <string name="label_nom_profil">Nom : %1$s</string>
+    <string name="statut_client">Statut : Client</string>
+    <string name="label_derniere">Dernière location : %1$d DT</string>
+    <string name="aucune_location">Aucune location pour le moment</string>
+</resources>
